@@ -5,9 +5,10 @@
 
 
 = About Myself
-I am currently interested in gaining basic work experience as an intern in your company. That experience in my opinion will allow me to improve my skills and also will provide a good understanding of industrial and research development.
-\\  Having a particular interest in distributed system organization, I want my skills to be enhanced in that sphere for future perspective.
-I am considering the industrial approach more valuable in the way it will provide more
+System level software engineer. Experienced in distributed system organization and multi-procressor programming.
+I want my skills to be enhanced in that way for future perspective.
+Currently focusing on studying Byzantine Fault Tolerance.
+Considering the practical approach more valuable in the way it will provide more
 complex and interesting tasks.
 
 = Education
@@ -20,7 +21,7 @@ Lyceum at the Tomsk Polytechnic University
 
 = Personal projects
 - #link("https://github.com/kshprenger/raft")[RAFT Consensus protocol implementation] (Capstone)
-- #link("https://github.com/kshprenger/meijic")[Runtime for stackful fibers and lazy futures]
+- #link("https://github.com/kshprenger/chime")[Runtime for stackful fibers and lazy futures]
 - #link("https://gitlab.com/private8832910/low-level")[Projects focused on low-level programming]
 - #link("https://github.com/kshprenger/carolina")[Carolina - Hotstuff consensus] (WIP)
 
@@ -29,6 +30,7 @@ Lyceum at the Tomsk Polytechnic University
  Golang, Rust, Erlang, C/C++ Java, Kotlin, Assembly x$86\_64$/RISC-V
 - Consensus protocols
 - Lock-Free data structures
+- Memory models
 - Transactional memory
 
 = Achievements and volunteering
