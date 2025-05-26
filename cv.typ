@@ -19,6 +19,9 @@ ITMO University
 Lyceum at the Tomsk Polytechnic University
 - Education period: 2019 - 2021
 
+= Work Experience
+- YADRO Storage area network control path swe (01.07.2024-Present)
+
 = Personal projects
 - #link("https://github.com/kshprenger/raft")[RAFT Consensus protocol implementation] (Capstone)
 - #link("https://github.com/kshprenger/chime")[Runtime for stackful fibers and lazy futures]
