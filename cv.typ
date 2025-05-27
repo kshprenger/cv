@@ -22,6 +22,7 @@ Lyceum at the Tomsk Polytechnic University
 = Personal projects
 - #link("https://github.com/kshprenger/raft")[RAFT Consensus protocol implementation] (Capstone)
 - #link("https://github.com/kshprenger/chime")[Runtime for stackful fibers and lazy futures]
+- #link("https://github.com/ydb-platform/ydb-rs-sdk/pull/206")[YDB Rust SDK Nearest data center balancer]
 - #link("https://gitlab.com/private8832910/low-level")[Projects focused on low-level programming]
 - #link("https://github.com/kshprenger/carolina")[Carolina - Hotstuff consensus] (WIP)
 
