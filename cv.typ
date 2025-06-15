@@ -20,7 +20,7 @@ Lyceum at the Tomsk Polytechnic University
 - Education period: 2019 - 2021
 
 = Work Experience
-- YADRO SAN Software engineer (06.2024-Present)
+- YADRO SAN Control Path Software engineer (06.2024-Present)
   - SAN Cluster manager development
   - Control subsystem platform and infrastructure development
 
