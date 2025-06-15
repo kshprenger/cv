@@ -5,11 +5,8 @@
 
 #set text(size: 10pt)
 = About Myself
-System level software engineer. Experienced in distributed system organization and multi-procressor programming.
-I want my skills to be enhanced in that way for future perspective.
+System level software engineer. Experienced in distributed system and multi-procressor programming.
 Currently focusing on studying Byzantine Fault Tolerance.
-Considering the practical approach more valuable in the way it will provide more
-complex and interesting tasks.
 
 = Education
 ITMO University
@@ -33,7 +30,7 @@ Lyceum at the Tomsk Polytechnic University
 
 = Skills
 - Experience with programming languages: \
-  Rust, C/C++, Golang, Java, Kotlin, Assembly x$86\_64$/RISC-V
+  Rust, C/C++, Golang, Assembly x$86\_64$/RISC-V
 - Consensus protocols
 - Lock-Free data structures
 - Memory models
