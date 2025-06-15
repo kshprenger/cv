@@ -39,7 +39,7 @@ Lyceum at the Tomsk Polytechnic University
 - Memory models
 - Transactional memory
 - Deep knowledge in systems:
-  ETCD, PostreSQL
+  ETCD, PostreSQL, Cluster Labs Pacemaker
 
 = Achievements and volunteering
 - Victory in the XIV regional tournament on mathematical battles, Tomsk region. (2021)
