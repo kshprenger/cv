@@ -5,7 +5,7 @@
 
 #set text(size: 10pt)
 = About Myself
-System level software engineer. Experienced in distributed system and multi-procressor programming.
+System level software engineer. Experienced in distributed systems and multi-processor programming.
 Currently focusing on studying Byzantine Fault Tolerance.
 
 = Education
@@ -32,11 +32,11 @@ Lyceum at the Tomsk Polytechnic University
 - Experience with programming languages: \
   Rust, C/C++, Golang, Assembly x$86\_64$/RISC-V
 - Consensus protocols
+- Distributed computing
 - Lock-Free data structures
-- Memory models
 - Transactional memory
 - Deep knowledge in systems:
-  ETCD, PostreSQL, Cluster Labs Pacemaker
+  ETCD, PostreSQL, Clusterlabs Pacemaker
 
 = Achievements and volunteering
 - Victory in the XIV regional tournament on mathematical battles, Tomsk region. (2021)
