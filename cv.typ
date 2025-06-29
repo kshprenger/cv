@@ -19,7 +19,7 @@ Lyceum at the Tomsk Polytechnic University
 = Work Experience
 - YADRO SAN Control Path Software engineer (06.2024-Present)
   - SAN Cluster manager development
-  - Control subsystem platform and infrastructure development
+  - Control subsystem platform development
 
 = Personal projects
 - #link("https://github.com/kshprenger/raft")[RAFT Consensus protocol implementation] (Capstone)
