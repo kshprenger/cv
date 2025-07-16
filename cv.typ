@@ -5,7 +5,7 @@
 
 #set text(size: 10pt)
 = About Myself
-System level software engineer. Experienced in distributed systems and multi-processor programming.
+System level software engineer. Experienced in distributed computing and concurrent programming.
 Currently focusing on studying Byzantine Fault Tolerance.
 
 = Education
@@ -16,7 +16,7 @@ ITMO University
 Lyceum at the Tomsk Polytechnic University
 - Education period: 2019 - 2021
 
-= Work Experience
+= Job Experience
 - YADRO SAN Control Path Software engineer (06.2024-Present)
   - SAN Cluster manager development
   - Control subsystem platform development
@@ -35,8 +35,8 @@ Lyceum at the Tomsk Polytechnic University
 - Distributed computing
 - Lock-Free data structures
 - Transactional memory
-- Deep knowledge in systems:
-  ETCD, PostreSQL, Clusterlabs Pacemaker
+- In-Depth knowledge of systems:
+  Jepsen, ETCD, PostreSQL, Clusterlabs Pacemaker
 
 = Achievements and volunteering
 - Victory in the XIV regional tournament on mathematical battles, Tomsk region. (2021)
