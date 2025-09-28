@@ -9,12 +9,19 @@ System level software engineer. Experienced in distributed computing and concurr
 Currently focusing on studying Byzantine Fault Tolerance.
 
 = Education
-ITMO University
-- Faculty of Software Engineering and Computer Systems
-- Bachelor’s program: "System and applied software" (education period: 2021 - 2025)
+- Institut Polytechnique de Paris
+  - Télécom SudParis school
+  - Master: "Parallel and Distributed Systems track (PDS)" (education period: Aug 2025 - Aug 2027)
 
-Lyceum at the Tomsk Polytechnic University
-- Education period: 2019 - 2021
+- ITMO University
+  - Faculty of Software Engineering and Computer Systems
+  - Bachelor: "System and applied software" (education period: Aug 2021 - Aug 2025)
+
+- Lyceum at the Tomsk Polytechnic University
+  - Education period: Aug 2019 - Aug 2021
+
+= Research
+- DAG-based Blockchains
 
 = Job Experience
 - YADRO SAN Control Path Software engineer (06.2024-Present)
@@ -23,33 +30,26 @@ Lyceum at the Tomsk Polytechnic University
 
 = Personal projects
 - #link("https://github.com/kshprenger/raft")[RAFT Consensus protocol implementation] (Capstone)
+- #link("https://github.com/kshprenger/screencast")[Webrtc desktop application for screen sharing]
 - #link("https://github.com/kshprenger/chime")[Runtime for stackful fibers and lazy futures]
 - #link("https://github.com/ydb-platform/ydb-rs-sdk/pull/206")[YDB Rust SDK Nearest data center balancer]
-- #link("https://gitlab.com/private8832910/low-level")[Projects focused on low-level programming]
-- #link("https://github.com/kshprenger/carolina")[Carolina - Hotstuff consensus] (WIP)
 
 = Skills
 - Experience with programming languages: \
-  Rust, C/C++, Golang, Assembly x$86\_64$/RISC-V
+  Rust, C/C++, Golang, Assembly x$86\_64$/ARM/RISC-V
+- Theoretical DS
 - Consensus protocols
-- Distributed computing
-- Lock-Free data structures
+- Blockchains
+- Lock-free & Wait-free algorithms
 - Transactional memory
 - In-Depth knowledge of systems:
-  Jepsen, ETCD, PostreSQL, Clusterlabs Pacemaker
-
-= Achievements and volunteering
-- Victory in the XIV regional tournament on mathematical battles, Tomsk region. (2021)
-- Judging XV and XVI regional tournaments on mathematical battles, Tomsk region.
-- Prize-winning place in the MIPT Olympiad (2021), Mathematics
+  Jepsen, ETCD, PostgreSQL, Clusterlabs Pacemaker
 
 = Additional
 - English C1 Advanced level
 
 = Contacts
-Email - kostya\@shprenger.com \
-Phone number: +79811089011 \
+Email - konstantin\@shprenger.com \
 #link("https://t.me/kshprenger")[Telegram]
 #link("https://github.com/kshprenger")[Github]
-#link("https://gitlab.com/bakalover")[Gitlab]
 #link("https://www.linkedin.com/in/kshprenger")[LinkedIn]
